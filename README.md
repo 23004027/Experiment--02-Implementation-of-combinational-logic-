@@ -1,3 +1,5 @@
+# Name:vignesh.v
+# Register Number:23004027
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
